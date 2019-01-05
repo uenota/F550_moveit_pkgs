@@ -1,3 +1,0 @@
-[submodule "moveit_multi_dof_controller_manager"]
-	path = moveit_multi_dof_controller_manager
-	url = https://github.com/uenota/moveit_multi_dof_controller_manager.git
