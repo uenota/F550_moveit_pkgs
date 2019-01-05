@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: f550_description
+    relative_path: xacro/F550.xacro
+    xacro_args: mavlink_udp_port:=14560 --inorder
+  SRDF:
+    relative_path: config/F550.srdf
+  CONFIG:
+    author_name: Takaki Ueno
+    author_email: ueknot@gmail.com
+    generated_timestamp: 1546699049
