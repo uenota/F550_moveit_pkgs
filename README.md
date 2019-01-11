@@ -1,6 +1,6 @@
 # F550_moveit_pkgs
 
-ROS packages for using F550 MAV using MoveIt!
+ROS packages for using F550 MAV with MoveIt!
 
 ![demo](resources/demo.gif)
 
